@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OmkarBorade20
-- 👀 I’m interested in ...Full Stack Development {MEAN,Java Backend(Spring boot,hibernate,Rest api's).}
-- 🌱 I’m currently learning ...Node js
+- 👀 I’m interested in ...Full Stack Development {MEAN/MERN}
+- 🌱 I’m currently Building Node js Boiler Plate Code
 - 📫 How to reach me ...Fell Free to mail me on :oborade7@gmail.com
 
 <!---
